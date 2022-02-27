@@ -1,1 +1,2 @@
-FROM $image
+# FROM $image
+FROM gcr.io/google-samples/xtrabackup:1.0
